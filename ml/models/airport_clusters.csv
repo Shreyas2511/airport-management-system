@@ -1,0 +1,31 @@
+airport_id,airport_name,city,country,traffic_capacity,total_flights,avg_delay,code,lat,lon,cluster,congestion_level
+2,Heathrow (LHR),London,UK,1274,438,28.22146118721461,LHR,51.47,-0.4543,2,High Congestion
+1,John F. Kennedy Intl (JFK),New York,USA,1149,395,28.154430379746834,JFK,40.6413,-73.7781,2,High Congestion
+3,Dubai Intl (DXB),Dubai,UAE,1303,393,29.109414758269722,DXB,25.2532,55.3657,2,High Congestion
+4,Haneda (HND),Tokyo,Japan,1009,385,26.792207792207794,HND,35.5494,139.7798,2,High Congestion
+5,Hartsfield-Jackson Intl (ATL),Atlanta,USA,939,382,29.18324607329843,ATL,33.6407,-84.4277,2,High Congestion
+6,O'Hare Intl (ORD),Chicago,USA,999,377,27.46419098143236,ORD,41.9742,-87.9073,2,High Congestion
+8,Charles de Gaulle (CDG),Paris,France,558,214,21.602803738317757,CDG,49.0097,2.5479,0,Medium Congestion
+17,Barajas (MAD),Madrid,Spain,804,206,20.849514563106798,MAD,40.4983,-3.5676,0,Medium Congestion
+11,Changi (SIN),Singapore,Singapore,751,203,23.098522167487683,SIN,1.3644,103.9915,0,Medium Congestion
+10,Schiphol (AMS),Amsterdam,Netherlands,543,202,22.138613861386137,AMS,52.3105,4.7683,0,Medium Congestion
+14,Indira Gandhi Intl (DEL),Delhi,India,566,199,22.748743718592966,DEL,28.5562,77.1,0,Medium Congestion
+12,Incheon Intl (ICN),Seoul,South Korea,814,198,23.217171717171716,ICN,37.4602,126.4407,0,Medium Congestion
+18,Leonardo da Vinci (FCO),Rome,Italy,538,197,20.289340101522843,FCO,41.8003,12.2389,0,Medium Congestion
+16,Toronto Pearson (YYZ),Toronto,Canada,688,190,22.0,YYZ,43.6777,-79.6248,0,Medium Congestion
+13,Beijing Capital (PEK),Beijing,China,615,190,20.352631578947367,PEK,40.0799,116.6031,0,Medium Congestion
+7,Los Angeles Intl (LAX),Los Angeles,USA,797,189,20.994708994708994,LAX,33.9416,-118.4085,0,Medium Congestion
+9,Frankfurt Airport (FRA),Frankfurt,Germany,692,187,21.796791443850267,FRA,50.0379,8.5622,0,Medium Congestion
+15,Chhatrapati Shivaji (BOM),Mumbai,India,513,173,22.54913294797688,BOM,19.0896,72.8656,0,Medium Congestion
+23,Guarulhos Intl (GRU),Sao Paulo,Brazil,248,74,23.54054054054054,GRU,-23.4356,-46.4731,1,Low Congestion
+29,Sheremetyevo (SVO),Moscow,Russia,300,73,19.328767123287673,SVO,55.9726,37.4146,1,Low Congestion
+24,Benito Juarez Intl (MEX),Mexico City,Mexico,314,73,15.054794520547945,MEX,19.4363,-99.0721,1,Low Congestion
+30,Zurich Airport (ZRH),Zurich,Switzerland,204,73,25.36986301369863,ZRH,47.4647,8.5492,1,Low Congestion
+21,Kempegowda Intl (BLR),Bangalore,India,481,69,21.92753623188406,BLR,13.1986,77.7066,1,Low Congestion
+26,Hamad Intl (DOH),Doha,Qatar,389,67,18.44776119402985,DOH,25.2731,51.6081,1,Low Congestion
+28,Cairo Intl (CAI),Cairo,Egypt,409,62,18.758064516129032,CAI,30.1219,31.4056,1,Low Congestion
+22,Hong Kong Intl (HKG),Hong Kong,China,216,61,20.508196721311474,HKG,22.308,113.9185,1,Low Congestion
+25,Istanbul Airport (IST),Istanbul,Turkey,160,60,17.6,IST,41.2753,28.7519,1,Low Congestion
+20,Pune Airport (PNQ),Pune,India,444,59,16.423728813559322,PNQ,18.5822,73.9197,1,Low Congestion
+19,Kingsford Smith (SYD),Sydney,Australia,385,56,18.75,SYD,-33.9399,151.1753,1,Low Congestion
+27,O.R. Tambo Intl (JNB),Johannesburg,South Africa,437,45,22.377777777777776,JNB,-26.1392,28.246,1,Low Congestion

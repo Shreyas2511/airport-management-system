@@ -1,0 +1,12 @@
+streamlit
+psycopg2-binary
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+joblib
+sqlalchemy
+plotly
+faker
+python-dotenv
